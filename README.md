@@ -3,3 +3,4 @@
 🌱 Estudando tecnologias front end.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oandmiranda)](https://github.com/oandmiranda/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oandmiranda&show_icons=true&theme=dark)
