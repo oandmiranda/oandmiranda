@@ -1,6 +1,6 @@
 ### Olá, eu sou o Anderson Miranda 😄
 
-💻 Front-End Developer - Cursando superior em Análise e Desenvolvimento de Sistemas!
+💻 Front-End Developer / formado em Análise e Desenvolvimento de Sistemas!
 
 <!-- Trecho de código / Tecnologias -->
 <div style="display: inline_block"><br>
