@@ -16,5 +16,3 @@
 </div>
 
 <br>
-
-![Anderson Miranda GitHub stats](https://github-readme-stats.vercel.app/api?username=oandmiranda&show_icons=true&theme=tokyonight)
