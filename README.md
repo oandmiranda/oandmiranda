@@ -1,10 +1,10 @@
 <img align="right" width="400" height="400"
 src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif">
 # Welcome! 😄
-### I'm Anderson Miranda! It’s a pleasure to have you here. :D
+### I'm Anderson Miranda! It’s a pleasure to have you here :D
 Front End Engineer React | :robot:
 <br>
-Lover of Technology and coding :heart:
+Technology and coding enthusiast :heart:
 
 <!-- Trecho de código / Tecnologias -->
 <div style="display: inline_block"><br>
